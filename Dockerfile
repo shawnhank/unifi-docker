@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:23.04
 
 LABEL maintainer="Jacob Alberty <jacob.alberty@foundigital.com>"
 
